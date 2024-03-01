@@ -18,3 +18,4 @@ case 3:
                         System.out.println();
                     }
                     break;
+print
