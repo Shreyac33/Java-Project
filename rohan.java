@@ -18,3 +18,5 @@ case 3:
                         System.out.println();
                     }
                     break;
+
+System.out.println(Hello world);
