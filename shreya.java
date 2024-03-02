@@ -13,4 +13,3 @@ public class AttendanceManagement {
         int currentDay = 0;
 
         System.out.println("Welcome to Attendance Marker");
-System.out.println ("Adding Students and attendnace for 1 month");
