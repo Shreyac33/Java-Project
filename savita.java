@@ -17,4 +17,3 @@
                         System.out.println("Maximum student limit reached!");
                     }
                     break;
-                   System.out.println("Start of the attendance");
