@@ -23,4 +23,3 @@
                         }
                     }
                     currentDay++;
-                    break;
